@@ -43,6 +43,7 @@ English Version:
 - We maintain transparency in our privacy practices
 - Regular updates to ensure compliance
 
+النسخة العربية:
 📱 سياسة الخصوصية لتطبيق تحويل PDF
 
 ١. المعلومات التي نجمعها 📊
